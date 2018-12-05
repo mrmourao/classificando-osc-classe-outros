@@ -3,7 +3,7 @@ Com base no repositório de classificação das áreas de atuação das OSCs, es
 
 Para treinamento do modelo deste projeto, foram retiradas dos dados todas as OSCs que tinham mais de uma área de atuação, juntamente com todas as OSCs que haviam sido classificadas como "10 - Outros" ou "11 - Outras atividades associativas".
 
-Devido ser uma classificação onde não temos uma resposta para avaliar o modelo, será considerado a acurácia do modelo desenvolvido anteriormente, com o percentual de 98% de acerto.
+Por ser uma classificação onde não temos uma resposta para avaliar o modelo, será considerado a acurácia do modelo desenvolvido anteriormente, com o percentual de 98% de acerto.
 
 Neste repositório, será disponibilizado todo o conteúdo necessário para a criação do modelo preditivo e uma classificação em massa, onde como resposta será gerado um arquivo .json com os resultados.
 
