@@ -1,9 +1,9 @@
 # Reclassificando área de atuação "Outros" das OSCs utilizando Random Forest Classifie.
-Com base no repositório de classificação das áreas de atuação das OSCs, este repositório está sendo criado para reclassificar as áreas de atuação consideradas como "Outros" na classificação original, logo não haverá a avaliação dos resultados.
+Com base no repositório de classificação das áreas de atuação das OSCs, este repositório está sendo criado para reclassificar a área de atuação considerada como "Outros" na classificação original.
 
-Para treinamento do modelo deste projeto, foram retirados dos dados todas as OSCs que tinham mais de uma área de atuação, juntamente com todas as OSCs que haviam sido classificadas como "10 - Outros" ou "11 - Outras atividades associativas".
+Para treinamento do modelo deste projeto, foram retiradas dos dados todas as OSCs que tinham mais de uma área de atuação, juntamente com todas as OSCs que haviam sido classificadas como "10 - Outros" ou "11 - Outras atividades associativas".
 
-Devido ser uma classificação onde não temos a sua resposta para avaliar o modelo, será considerado a acurácia do modelo desenvolvido anteriormente, com o percentual de 98% de acerto.
+Devido ser uma classificação onde não temos uma resposta para avaliar o modelo, será considerado a acurácia do modelo desenvolvido anteriormente, com o percentual de 98% de acerto.
 
 Neste repositório, será disponibilizado todo o conteúdo necessário para a criação do modelo preditivo e uma classificação em massa, onde como resposta será gerado um arquivo .json com os resultados.
 
